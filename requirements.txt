@@ -1,0 +1,42 @@
+# ============================================================
+# SISTEMA TRIADOR DE ORDENS DE SERVIÇO
+# Arquitetura Híbrida Neurossimbólica
+# ============================================================
+
+# Core Dependencies
+# ------------------------------------------------------------
+python-dotenv==1.0.0          # Gerenciamento de variáveis de ambiente
+pydantic==2.5.3               # Validação de dados e settings
+pydantic-settings==2.1.0      # Settings com Pydantic
+
+# LLM Integration
+# ------------------------------------------------------------
+requests==2.31.0              # Cliente HTTP para Ollama
+httpx==0.25.2                 # Cliente HTTP async (futuro)
+
+# API REST
+# ------------------------------------------------------------
+fastapi==0.109.0              # Framework web moderno
+uvicorn[standard]==0.27.0     # Servidor ASGI
+
+# Data Processing
+# ------------------------------------------------------------
+python-dateutil==2.8.2        # Manipulação de datas
+
+# Testing
+# ------------------------------------------------------------
+pytest==7.4.3                 # Framework de testes
+pytest-cov==4.1.0             # Cobertura de testes
+pytest-asyncio==0.21.1        # Testes async
+
+# Development Tools
+# ------------------------------------------------------------
+black==23.12.1                # Formatação de código
+ruff==0.1.9                   # Linter rápido
+mypy==1.8.0                   # Verificação de tipos
+
+# Optional: Enhanced Features
+# ------------------------------------------------------------
+# rich==13.7.0                # Terminal formatting (opcional)
+# pandas==2.1.4               # Análise de dados (opcional)
+# matplotlib==3.8.2           # Visualizações (opcional)

@@ -1,0 +1,242 @@
+[
+  {
+    "order_id": "OS-001",
+    "description": "Motor da esteira 03 apresenta vibração excessiva e ruído durante operação. Operador reportou aumento progressivo do problema nas últimas 48 horas.",
+    "requester": "Supervisor Produção",
+    "location": "Linha 3 - Setor A",
+    "expected": {
+      "classificacao": "Mecânica",
+      "criticidade": "Alta",
+      "urgencia": "Alta",
+      "especialidade": "Eletromecânica"
+    }
+  },
+  {
+    "order_id": "OS-002",
+    "description": "Disjuntor DJ-23 do painel elétrico principal desarma frequentemente sob carga nominal. Ocorreram 5 desarmes nas últimas 24 horas.",
+    "requester": "Eletricista Turno B",
+    "location": "Casa de Força - Painel CCM-02",
+    "expected": {
+      "classificacao": "Elétrica",
+      "criticidade": "Alta",
+      "urgencia": "Alta",
+      "especialidade": "Elétrica"
+    }
+  },
+  {
+    "order_id": "OS-003",
+    "description": "Sensor de temperatura ST-102 da linha de aquecimento indicando valores inconsistentes. Leituras variando entre -10°C e 150°C sem padrão definido.",
+    "requester": "Operador Sala Controle",
+    "location": "Linha Aquecimento - Zona 2",
+    "expected": {
+      "classificacao": "Instrumentação",
+      "criticidade": "Média",
+      "urgencia": "Normal",
+      "especialidade": "Instrumentação"
+    }
+  },
+  {
+    "order_id": "OS-004",
+    "description": "Realizar troca do óleo lubrificante do compressor de ar C-05 conforme programação trimestral de manutenção preventiva. Última troca realizada em 15/06.",
+    "requester": "Engenharia Manutenção",
+    "location": "Casa Compressores",
+    "expected": {
+      "classificacao": "Mecânica",
+      "criticidade": "Média",
+      "urgencia": "Normal",
+      "especialidade": "Mecânica"
+    }
+  },
+  {
+    "order_id": "OS-005",
+    "description": "Vazamento de óleo hidráulico identificado na prensa P-07. Volume estimado de 2 litros/hora. Risco de contaminação do piso e escorregamento.",
+    "requester": "Supervisor Segurança",
+    "location": "Setor Prensas",
+    "expected": {
+      "classificacao": "Mecânica",
+      "criticidade": "Alta",
+      "urgencia": "Alta",
+      "especialidade": "Mecânica"
+    }
+  },
+  {
+    "order_id": "OS-006",
+    "description": "CLP (Controlador Lógico Programável) da linha 5 apresentando falha intermitente de comunicação com módulo remoto I/O. Perda de sinal a cada 2-3 horas.",
+    "requester": "Técnico Automação",
+    "location": "Linha 5 - Painel Automação",
+    "expected": {
+      "classificacao": "Automação",
+      "criticidade": "Alta",
+      "urgencia": "Alta",
+      "especialidade": "Automação"
+    }
+  },
+  {
+    "order_id": "OS-007",
+    "description": "Bomba centrífuga B-12 do sistema de refrigeração emitindo ruído anormal e apresentando aquecimento no mancal traseiro. Temperatura medida: 85°C.",
+    "requester": "Operador Utilidades",
+    "location": "Casa Bombas - Setor Refrigeração",
+    "expected": {
+      "classificacao": "Mecânica",
+      "criticidade": "Alta",
+      "urgencia": "Alta",
+      "especialidade": "Eletromecânica"
+    }
+  },
+  {
+    "order_id": "OS-008",
+    "description": "Realizar calibração do manômetro M-45 conforme cronograma anual de instrumentação. Última calibração: 12 meses atrás.",
+    "requester": "Coordenador Qualidade",
+    "location": "Linha Principal - Estação Medição",
+    "expected": {
+      "classificacao": "Instrumentação",
+      "criticidade": "Média",
+      "urgencia": "Normal",
+      "especialidade": "Instrumentação"
+    }
+  },
+  {
+    "order_id": "OS-009",
+    "description": "Curto-circuito detectado na fiação do motor M-08. Fusível queimado e sinais de aquecimento excessivo nos cabos. EQUIPAMENTO DESLIGADO POR SEGURANÇA.",
+    "requester": "Supervisor Emergência",
+    "location": "Linha 2 - Motor Principal",
+    "expected": {
+      "classificacao": "Elétrica",
+      "criticidade": "Crítica",
+      "urgencia": "Emergencial",
+      "especialidade": "Elétrica"
+    }
+  },
+  {
+    "order_id": "OS-010",
+    "description": "Válvula pneumática de controle V-23 não responde aos comandos do sistema SCADA. Posicionamento manual funciona normalmente.",
+    "requester": "Operador Sala Controle",
+    "location": "Linha Envase - Estação 4",
+    "expected": {
+      "classificacao": "Automação",
+      "criticidade": "Média",
+      "urgencia": "Normal",
+      "especialidade": "Automação"
+    }
+  },
+  {
+    "order_id": "OS-011",
+    "description": "Correia transportadora CT-15 apresenta desgaste visível com risco de rompimento. Inspeção visual identifica pontos de desfibramento.",
+    "requester": "Inspetor Manutenção",
+    "location": "Transporte Linha 4",
+    "expected": {
+      "classificacao": "Mecânica",
+      "criticidade": "Média",
+      "urgencia": "Normal",
+      "especialidade": "Mecânica"
+    }
+  },
+  {
+    "order_id": "OS-012",
+    "description": "Transmissor de pressão PT-201 com sinal de saída errático (4-20mA). Valor flutuando mesmo com processo estabilizado.",
+    "requester": "Técnico Instrumentação",
+    "location": "Linha Processo - Vaso V-10",
+    "expected": {
+      "classificacao": "Instrumentação",
+      "criticidade": "Média",
+      "urgencia": "Normal",
+      "especialidade": "Instrumentação"
+    }
+  },
+  {
+    "order_id": "OS-013",
+    "description": "Fumaça detectada saindo do painel de comando PC-07. Desarmado imediatamente. Possível sobrecarga ou falha de componente.",
+    "requester": "Operador Turno A",
+    "location": "Painel Comando - Setor B",
+    "expected": {
+      "classificacao": "Elétrica",
+      "criticidade": "Crítica",
+      "urgencia": "Emergencial",
+      "especialidade": "Elétrica"
+    }
+  },
+  {
+    "order_id": "OS-014",
+    "description": "Realizar lubrificação dos rolamentos da ventilador V-03 conforme plano de manutenção preventiva semanal.",
+    "requester": "Planejamento Manutenção",
+    "location": "Sistema Ventilação - Torre 1",
+    "expected": {
+      "classificacao": "Mecânica",
+      "criticidade": "Baixa",
+      "urgencia": "Normal",
+      "especialidade": "Mecânica"
+    }
+  },
+  {
+    "order_id": "OS-015",
+    "description": "Inversor de frequência IF-09 apresentando falha F023 (sobrecorrente). Motor associado não parte. Tentativas de reset não resolveram.",
+    "requester": "Eletricista Manutenção",
+    "location": "Painel Inversores - Linha 6",
+    "expected": {
+      "classificacao": "Elétrica",
+      "criticidade": "Alta",
+      "urgencia": "Alta",
+      "especialidade": "Elétrica"
+    }
+  },
+  {
+    "order_id": "OS-016",
+    "description": "Atualizacao software CLP linha producao conforme novo programa desenvolvido engenharia. Parada programada necessaria.",
+    "requester": "Engenharia Automação",
+    "location": "CLP Linha Principal",
+    "expected": {
+      "classificacao": "Automação",
+      "criticidade": "Média",
+      "urgencia": "Normal",
+      "especialidade": "Automação"
+    }
+  },
+  {
+    "order_id": "OS-017",
+    "description": "Rolamento do redutor R-04 emitindo ruído metálico característico de desgaste. Vibração perceptível ao toque.",
+    "requester": "Mecânico Turno C",
+    "location": "Transportador T-08",
+    "expected": {
+      "classificacao": "Mecânica",
+      "criticidade": "Alta",
+      "urgencia": "Alta",
+      "especialidade": "Mecânica"
+    }
+  },
+  {
+    "order_id": "OS-018",
+    "description": "Chave seccionadora CS-12 com sinais de oxidação nos contatos. Inspeção termográfica indicou aquecimento anormal (15°C acima ambiente).",
+    "requester": "Engenheiro Eletricista",
+    "location": "Subestação Principal",
+    "expected": {
+      "classificacao": "Elétrica",
+      "criticidade": "Média",
+      "urgencia": "Normal",
+      "especialidade": "Elétrica"
+    }
+  },
+  {
+    "order_id": "OS-019",
+    "description": "Lâmpada piloto indicadora queimada painel operação. Substituição simples necessária.",
+    "requester": "Operador",
+    "location": "Painel Operação Central",
+    "expected": {
+      "classificacao": "Elétrica",
+      "criticidade": "Baixa",
+      "urgencia": "Baixa",
+      "especialidade": "Elétrica"
+    }
+  },
+  {
+    "order_id": "OS-020",
+    "description": "Sistema SCADA perdendo conexão com estações remotas. Rede Ethernet Industrial apresentando latência elevada e perda de pacotes.",
+    "requester": "Analista TI Industrial",
+    "location": "Rede Automação - Switches Industriais",
+    "expected": {
+      "classificacao": "Automação",
+      "criticidade": "Alta",
+      "urgencia": "Alta",
+      "especialidade": "Automação"
+    }
+  }
+]

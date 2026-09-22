@@ -1,0 +1,59 @@
+LICENÇA ACADÊMICA
+
+Copyright (c) 2026 IFSP - Instituto Federal de São Paulo
+Pós-Graduação em Controle e Automação
+
+Este software foi desenvolvido como parte de uma monografia de pós-graduação
+no IFSP (Instituto Federal de São Paulo).
+
+TERMOS E CONDIÇÕES:
+
+1. USO ACADÊMICO E EDUCACIONAL
+   Este software é disponibilizado para fins acadêmicos e educacionais.
+
+2. REDISTRIBUIÇÃO
+   É permitida a redistribuição e uso em formato de código fonte ou binário,
+   com ou sem modificações, desde que as seguintes condições sejam atendidas:
+
+   a) Redistribuições de código fonte devem manter este aviso de copyright,
+      esta lista de condições e o disclaimer abaixo.
+   
+   b) Redistribuições em formato binário devem reproduzir o aviso de copyright,
+      esta lista de condições e o disclaimer na documentação e/ou outros
+      materiais fornecidos com a distribuição.
+   
+   c) O nome do IFSP ou dos contribuidores não pode ser usado para endossar
+      ou promover produtos derivados deste software sem permissão prévia
+      por escrito.
+
+3. CITAÇÃO
+   Uso acadêmico deste software deve incluir citação apropriada ao trabalho
+   original.
+
+4. DISCLAIMER
+   ESTE SOFTWARE É FORNECIDO PELOS DETENTORES DOS DIREITOS AUTORAIS E
+   CONTRIBUIDORES "COMO ESTÁ" E QUALQUER GARANTIA EXPRESSA OU IMPLÍCITA,
+   INCLUINDO, MAS NÃO SE LIMITANDO A, GARANTIAS IMPLÍCITAS DE
+   COMERCIALIZAÇÃO E ADEQUAÇÃO A UMA FINALIDADE ESPECÍFICA SÃO REJEITADAS.
+   
+   EM NENHUMA CIRCUNSTÂNCIA O DETENTOR DOS DIREITOS AUTORAIS OU
+   CONTRIBUIDORES SERÃO RESPONSÁVEIS POR QUAISQUER DANOS DIRETOS, INDIRETOS,
+   INCIDENTAIS, ESPECIAIS, EXEMPLARES OU CONSEQUENCIAIS (INCLUINDO, MAS NÃO
+   SE LIMITANDO A, AQUISIÇÃO DE BENS OU SERVIÇOS SUBSTITUTOS; PERDA DE USO,
+   DADOS OU LUCROS; OU INTERRUPÇÃO DE NEGÓCIOS) CAUSADOS E SOB QUALQUER
+   TEORIA DE RESPONSABILIDADE, SEJA EM CONTRATO, RESPONSABILIDADE ESTRITA
+   OU DELITO (INCLUINDO NEGLIGÊNCIA OU DE OUTRA FORMA) DECORRENTE DE
+   QUALQUER FORMA DO USO DESTE SOFTWARE, MESMO QUE AVISADO DA POSSIBILIDADE
+   DE TAIS DANOS.
+
+5. NATUREZA DO PROTÓTIPO
+   Este software é um PROTÓTIPO ACADÊMICO e não foi testado ou validado
+   para uso em ambientes de produção industrial. Não deve ser usado em
+   sistemas críticos de segurança ou produção sem extensa validação e
+   certificação adicional.
+
+---
+
+Para questões sobre licenciamento ou uso comercial, contate:
+IFSP - Instituto Federal de São Paulo
+Departamento de Pós-Graduação em Controle e Automação
